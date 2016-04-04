@@ -20,7 +20,7 @@ openairJs(); // "awesome"
 
 ## API
 
-_(Coming soon)_
+_(Probably not coming soon)_
 
 
 ## Contributing
